@@ -1,0 +1,1 @@
+pyinstaller --icon icon.ico --onefile '.\Monty-Hall Problem (Experimental Verification).py'
